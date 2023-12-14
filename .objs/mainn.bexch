@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__mainn.o
+[PROJECT FILES]
+/media/main/src/ada/michau-cacl/project.gpr
+20220830185348 fd6f98fe7f17f3f59467590dc7d06dc9
+[BOUND OBJECT FILES]
+/media/main/src/ada/michau-cacl/.objs/mainn.o
+[GENERATED SOURCE FILES]
+b__mainn.ads
+b__mainn.adb
+b__mainn.ali
+[RESULTING OPTIONS]
+-L/media/main/src/ada/michau-cacl/.objs/
+-L/media/main/src/ada/michau-cacl/.objs/
+-L/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/adalib/
+-static
+-static-libgcc
+/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/adalib/libgnat.a
+-ldl
